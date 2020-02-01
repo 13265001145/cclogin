@@ -1,0 +1,2 @@
+使用时请根据实际情况修改config.php文件
+和model/sql.php
